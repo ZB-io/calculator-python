@@ -1,0 +1,1 @@
+The provided user story description "promptprompt" is not clear and doesn't provide enough context to create functional and non-functional test cases. Please provide a detailed user story or feature description to proceed with the creation of test cases.
