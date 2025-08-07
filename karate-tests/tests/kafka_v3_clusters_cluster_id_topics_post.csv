@@ -1,0 +1,5 @@
+cluster_id,topic_name,partitions_count,replication_factor,config_name,config_value,validate_only
+"test1","topic1","3","2","config1","value1","true"
+"test2","topic2","4","3","config2","value2","false"
+"test1","topic1","3","2","config1","value1","true"
+"test2","topic2","4","3","config2","value2","false"
