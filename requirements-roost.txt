@@ -1,0 +1,2 @@
+
+-r /var/tmp/Roost/RoostGPT/PythonTest/78ba1256-c5e1-4bb0-80d1-ead3325c499a/source/calculator-python/requirements.txtpytest
